@@ -1,3 +1,3 @@
 #!/bin/bash
-cd buildroot     # comment
-make distclean
+cd buildroot
+make distclean   # enable a new build
