@@ -1,3 +1,3 @@
 #!/bin/bash
 cd buildroot
-make distclean   # enable a new start using build.sh
+make distclean   # before new start using build.sh
