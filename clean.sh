@@ -1,3 +1,3 @@
 #!/bin/bash
-cd buildroot  #comment
+cd buildroot  # new comment
 make distclean
